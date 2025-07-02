@@ -1,2 +1,2 @@
 # ML_practice
-# ML_practice
+задачки и коды с практики
