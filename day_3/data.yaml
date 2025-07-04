@@ -1,0 +1,11 @@
+path: /home/hom1e/codes/olproga/learndataset/dataset
+train: train/images
+val: val/images
+names:
+  0: task22
+  1: task23
+  2: task24
+  3: task25
+  4: task26
+  5: task27
+  6: task28
